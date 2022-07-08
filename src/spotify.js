@@ -5,7 +5,7 @@ export const authEndPoint =
 
 const redirectUri = "http://localhost:3000/"
 
-const clientId = "a1be5987b696466b90a00dd39dd9f2da";
+const clientId = "80d4a333307b43b68e60d0bf6e9732c9";
 
 const scopes = [
     "user-read-currently-playing",
